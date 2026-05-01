@@ -1,5 +1,2 @@
 "use client";
-import { useState } from "react";
-export default function Home() {
-    return();
-}
+import { use State } from "react";
