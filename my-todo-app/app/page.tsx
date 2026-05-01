@@ -26,7 +26,7 @@ export default function TodoApp() {
 
   return (
     <div className="max-w-md mx-auto p-10">
-      <h1 className="text-2xl font-bold mb-6">本番用ToDoアプリ</h1>
+      <h1 className="text-2xl font-bold mb-6">ToDo</h1>
 
       <div className="flex gap-2 mb-8">
         <input
